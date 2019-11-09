@@ -1,4 +1,4 @@
-# ReactJsTable
+# Table Component Using ReactJs
 Configurable table component using ReactJs
 
 ## Contents
