@@ -8,6 +8,7 @@ Configurable table component using ReactJs
 3. Setup
 4. Details to use
 5. Example
+6. Features which are in-progress
 
 ###### Overview
 
@@ -95,6 +96,12 @@ We need to pass JSON data object to "dataSource" property
     // Use Table component in render() method
     <TableComponent DataOption={this.tableDataOptions}></TableComponent>
 
+###### Features which are in-progress
 
-There is some work is pending and might be some issue found. Please let know by adding comments so that I can resolve it.
+1. Configration to enable/disable searching/sorting on specific column.
+2. Show searchBar on the table to search on full data.
+3. Configurable UI/CSS.
+
+
+There might be some issues, So please let know by adding comments, that I can resolve it.
 Thanks.
