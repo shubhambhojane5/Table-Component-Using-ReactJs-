@@ -94,3 +94,7 @@ We need to pass JSON data object to "dataSource" property
     
     // Use Table component in render() method
     <TableComponent DataOption={this.tableDataOptions}></TableComponent>
+
+
+There is some work is pending and might be some issue found. Please let know by adding comments so that I can resolve it.
+Thanks.
